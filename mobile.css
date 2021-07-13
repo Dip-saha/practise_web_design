@@ -60,7 +60,7 @@ p{
     transition:0.5s;
 }
 .nav_menu a:hover{
-    background: rgb(7, 38, 175);
+    background: rgba(0, 81, 255, 0.74);
 }
 .navbar::after{
     content: '';
@@ -372,14 +372,15 @@ hr{
     cursor: pointer;
     margin: 10px;
     width: 70px;
-    background: rgba(0, 81, 255, 0.74);
+    background: rgb(0, 21, 207);
     color:rgb(255, 255, 255);
     transition:0.4s;
     
     
 }
 .contact button:hover{
-    background: #000;
+   
+    background: rgba(0, 81, 255, 0.74);
 }
 
 .contact_links{
